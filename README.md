@@ -1,0 +1,1 @@
+# Daily_Consumption_value_generator
